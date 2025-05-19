@@ -1,4 +1,5 @@
-﻿# Eco-Service Refactor: [**Dépôt origin Git:** https://github.com/soufianeIT/test3FAP.git]
+﻿# Eco-Service 
+ *Refactor: [**Dépôt origin Git:** https://github.com/soufianeIT/test3FAP.git]*
 
 ## Description
 Site Ecommerce développé avec Laravel dédiée à la vente de produits zéro déchet gérées par un seul back-office.
