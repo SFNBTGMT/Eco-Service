@@ -1,5 +1,4 @@
 ﻿# Eco-Service
-*[**Dépôt origin:** https://github.com/soufianeIT/test3FAP.git]*
 
 ## Description
 Site Ecommerce développé avec Laravel dédiée à la vente de produits zéro déchet gérées par un seul back-office.
@@ -42,3 +41,4 @@ Assurez-vous que le fichier `docker-compose.yml` contient les bonnes information
 ```
 docker-compose up --build
 ```
+*[**Dépôt origin:** https://github.com/soufianeIT/test3FAP.git]*
