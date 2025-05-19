@@ -16,7 +16,7 @@ L'application utilise Docker pour la conteneurisation. Les services sont défini
 - Interface Web : PHP (Laravel)
 - Paiement : Stripe
 - Interface d'Administration : PHP (laravel, Filament)
-- Base de données : PHPMySQL
+- Base de données : phpMyAdmin
 
 ## Prérequis
 - Docker
