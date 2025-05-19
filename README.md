@@ -18,10 +18,6 @@ L'application utilise Docker pour la conteneurisation. Les services sont défini
 - Interface d'Administration : PHP (laravel, Filament)
 - Base de données : phpMyAdmin
 
-## Prérequis
-- Docker
-- Docker Compose
-
 ## Installation
 
 1. Clonez le dépôt :
