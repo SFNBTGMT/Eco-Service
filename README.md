@@ -1,7 +1,7 @@
 ﻿# Eco-Service
 
 ## Description
-Site Ecommerce développé avec Laravel dédiée à la vente de produits zéro déchet gérées par un seul back-office.
+Site Ecommerce développé avec Laravel dédiée à la vente de produits zéro déchet.
 
 ## L'enonce du projet
 [Eco-Services.pdf](https://github.com/user-attachments/files/20301656/Eco-Services.pdf)
