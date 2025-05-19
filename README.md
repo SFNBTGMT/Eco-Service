@@ -13,7 +13,7 @@ Site Ecommerce développé avec Laravel dédiée à la vente de produits zéro d
 L'application utilise Docker pour la conteneurisation. Les services sont définis dans un fichier `docker-compose.yml`.
 
 ## Langages
-- Interface Web : PHP (Laravel)
+- Interface Web : PHP (Laravel, Nginx)
 - Paiement : Stripe
 - Interface d'Administration : PHP (laravel, Filament)
 - Base de données : phpMyAdmin
