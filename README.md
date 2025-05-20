@@ -17,6 +17,8 @@ L'application utilise Docker pour la conteneurisation. Les services sont défini
 - Paiement : Stripe
 - Interface d'Administration : PHP (laravel, Filament)
 - Base de données : phpMyAdmin
+- Commande PDF : `Example` ([commande_5.pdf](https://github.com/user-attachments/files/20351667/commande_5.pdf))
+  
 
 ## Installation
 
