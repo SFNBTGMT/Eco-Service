@@ -8,7 +8,7 @@ Site Ecommerce développé avec Laravel dédiée à la vente de produits zéro d
 
 ## Screencast du projet
 
-![Image](https://github.com/user-attachments/assets/ef6b5918-92ca-4090-9c24-62544ad06b23)
+![Image](https://github.com/user-attachments/assets/2c48a980-8123-4962-92c9-467a270d16c0)
 
 ## Environnement
 L'application utilise Docker pour la conteneurisation. Les services sont définis dans un fichier `docker-compose.yml`.
